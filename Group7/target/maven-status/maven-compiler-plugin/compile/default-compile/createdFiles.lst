@@ -1,0 +1,11 @@
+bt_amazon\service\PostService.class
+bt_amazon\storge\StorageException.class
+bt_amazon\Application.class
+bt_amazon\dao\PostRepository.class
+bt_amazon\storge\StorageFileNotFoundException.class
+bt_amazon\service\UploadService.class
+bt_amazon\storge\StorageProperties.class
+bt_amazon\storge\FileSystemStorageService.class
+bt_amazon\storge\StorageService.class
+bt_amazon\controller\MainController.class
+bt_amazon\model\Post.class
